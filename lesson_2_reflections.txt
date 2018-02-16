@@ -2,3 +2,10 @@ What happens when you initialize a repository? Why do you need to do it?
 
 .git catalog is being created. its empty. u can check git status.
 there should be no commits
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+
+its temporary area where u put files that will be commited later
+
+add = staging area
