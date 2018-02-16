@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+.git catalog is being created. its empty. u can check git status.
+there should be no commits
